@@ -1,0 +1,15 @@
+{
+  "name": "pushary",
+  "version": "0.1.0",
+  "description": "Approve OpenHands from your phone. Before OpenHands runs a command or edits a file, Pushary sends it to your phone and waits for your yes or no. If you miss the push, Pushary can call you. The agent can also ask you questions and send a push when a task finishes. Needs a paid Pushary plan and PUSHARY_API_KEY set.",
+  "author": {
+    "name": "Pushary",
+    "email": "business@pushary.com",
+    "url": "https://pushary.com"
+  },
+  "homepage": "https://pushary.com/docs/agents/guides/openhands",
+  "repository": "https://github.com/Pushary/openhands-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["pushary", "approvals", "phone", "push notifications", "human in the loop"]
+}
