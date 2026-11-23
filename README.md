@@ -5,7 +5,7 @@ OpenHands stops when it needs you. You're not at your desk, so it sits there.
 Pushary sends that moment to your phone. Before OpenHands runs a terminal command or edits a file, your Pushary rules decide. The risky ones wait for your yes or no. Tap yes and it keeps going.
 
 - **Your phone.** The step shows up as a push. Approve or deny in one tap.
-- **A call if you miss it.** No answer after a minute? Pushary calls you and reads the step out. Say yes, no, or tell the agent what to do instead.
+- **A call if you miss it.** Turn on calls and verify your number. If an eligible step still needs you, Pushary can call and read it aloud. Say yes, no, or tell the agent what to do instead.
 - **Your team.** On Team, a rule can send risky steps to your lead instead of you.
 - **Questions and updates.** The agent can ask you a question and send a push when a long task ends.
 
